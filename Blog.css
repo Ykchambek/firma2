@@ -1,0 +1,41 @@
+.nav ul{
+  display: flex;
+  justify-content: end;
+    list-style: none;
+    gap: 20px;
+   
+
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+.main{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.year{
+    display: flex;
+    gap: 10px;
+}
+.year2{
+    display: flex;
+    gap: 10px;
+}
+
+.year3{
+    display: flex;
+    gap: 10px;
+}
+
+.year4{
+    display: flex;
+    gap: 10px;
+}
+.footer{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 350px;
+    gap: 10px;
+
+}

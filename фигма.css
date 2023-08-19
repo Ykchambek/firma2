@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.ul1{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    gap: 15px;
+    margin-right: 10px;
+}
+.ul1 a{
+    text-decoration: none;
+    color: black;
+}
+.divconteiner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 120px;
+    margin-right: 150px;
+}
+.btn{
+    width: 140px;
+    height: 30px;
+    border: none;
+    color: white;
+    background-color: rgb(218, 59, 59);
+}
+.main{
+    background-color: rgb(192, 243, 243);
+    width: 100%;
+    height: 310px;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+.tex{
+    display: flex;
+    justify-content: space-between;
+}
+.div2{
+    background-color: white;
+    width: 418px;
+    height: 228px;
+}
+.div4{ 
+    background-color: white;
+    width: 418px;
+    height: 228px;
+}
+.li{
+    margin-left: 140px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    list-style: none;
+}
+.li1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    list-style: none;
+}
+.h3{
+    margin-left: 128px;
+    margin-top: 60px;
+}
+.img{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.conteiner{
+    display: flex;
+}
+.h31{
+    margin-top: 10px;
+}
+.btn1{
+    margin-left: 5px;
+    display: flex;
+    gap: 10px;
+}
+.conteiner1{
+    margin-left: 25px;
+    width: 418px;
+    height: 218px;
+}
+.img1{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.conteiner2{
+    margin-left: 25px;
+    margin-top: 15px;
+    display: flex;
+    width: 418px;
+    height: 218px;
+}
+.con{
+    display: flex;
+}
+.h32{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.btn2{
+    margin-left: 25px;
+    padding: 5px;
+    background-color: rgb(36, 34, 34);
+    color: white;
+    border-radius: 9px;
+}
+.displey{
+    display: flex;
+}
+.p{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(111, 114, 117);
+}
+.p1{
+    margin-left: 20px;
+    width: 418px;
+    height: 118px;
+}
+.conteiner5{
+    display: flex;
+}
+.img3{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.text1{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.btn5{
+    border-radius: 9px; 
+    padding: 5px;
+    background-color: rgb(31, 30, 30);
+    color: white;
+}
+.p5{
+    color: rgb(76, 78, 78); 
+    margin-top: 5px;
+}
+.div5{
+    display: flex;
+    gap: 10px;
+}
+.p6{
+    width: 418px;
+    height: 118px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
